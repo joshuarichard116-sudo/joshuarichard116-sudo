@@ -22,6 +22,15 @@ I work in security operations and systems administration for client environments
 
 **Wheeled Vehicle Mechanic (91B), Sergeant E-5 · Louisiana Army National Guard** · 2020 – present
 
+### 🛠️ Work projects (S1 Technology)
+
+- **Billing audit with Microsoft Graph:** catches billed users missed during onboarding
+- **Least-privilege delegated admin design** for a multi-domain client tenant
+- **PowerShell cleanup script** for old-tenant Outlook and Microsoft 365 data after migrations
+- **Web GUI** replacing the deployment tool's batch-script menu
+- **Company standard** for initial Cisco Small Business switch setup over console
+- **SentinelOne tuning:** fewer false positives, same detection coverage
+
 ### 📜 Certifications
 
 **B.S. Cybersecurity**, Louisiana State University of Alexandria (May 2026)
@@ -31,7 +40,9 @@ I work in security operations and systems administration for client environments
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### 🔭 Featured projects
+### 🔭 Built for work problems
+
+Each started with a problem from my MSP work and uses fictional company names, so the full design can be public.
 
 | Project | What it shows |
 |---|---|
