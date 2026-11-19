@@ -1,14 +1,14 @@
 # ![Hi, I'm Joshua. Security Operations, identity and access](assets/banner.svg)
 
-**Technical Consultant, Security Operations at S1 Technology (MSP).** 4+ years at managed service providers · Active U.S. Secret clearance · U.S. Army National Guard Sergeant (E-5) · B.S. Cybersecurity
+**Lead Engineer, CMMC & GCC High at S1 Technology (MSP).** 4+ years at managed service providers · Active U.S. Secret clearance · U.S. Army National Guard Sergeant (E-5) · B.S. Cybersecurity
 
-I work in security operations and systems administration for client environments: security tickets in SentinelOne, Defender XDR and Sentinel, plus user accounts and onboarding, Microsoft 365 and Entra ID, and Windows servers. Outside work I build labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
+I lead engineering for CMMC and GCC High client environments, and cover security operations and systems administration: security tickets in SentinelOne, Defender XDR and Sentinel, plus user accounts and onboarding, Microsoft 365 and Entra ID, and Windows servers. Outside work I build labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
 
 🌐 **Portfolio site:** https://joshuarichard116-sudo.github.io/jrichard-web/
 
 ### 💼 Experience
 
-**Technical Consultant, Security Operations · S1 Technology** (MSP) · April 2026 – present
+**Lead Engineer, CMMC & GCC High · S1 Technology** (MSP) · April 2026 – present
 - Triage and resolve about 30 security tickets per week across client environments using SentinelOne, Microsoft Defender XDR and Microsoft Sentinel
 - Own tuning of the organization's SentinelOne agent to cut false positives while keeping detection coverage
 - Designed a Microsoft Graph-based audit to catch billed users missed during onboarding
