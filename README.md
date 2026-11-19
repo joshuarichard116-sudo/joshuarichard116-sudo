@@ -1,20 +1,33 @@
-# ![Hi, I'm Joshua. System Administrator, identity and access management](assets/banner.svg)
+# ![Hi, I'm Joshua. Security Operations, identity and access](assets/banner.svg)
 
-**System Administrator at S1 Technology, a managed service provider, focused on identity & access management, Microsoft 365 / Entra ID, and Azure.**
+**Technical Consultant, Security Operations at S1 Technology (MSP).** 4+ years at managed service providers · Active U.S. Secret clearance · U.S. Army National Guard Sergeant (E-5) · B.S. Cybersecurity
 
-For the past year I've supported client environments day to day: user accounts and onboarding, Microsoft 365 and Entra ID, Windows servers, help desk and security triage. Outside work I build labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
+I work in security operations and systems administration for client environments: security tickets in SentinelOne, Defender XDR and Sentinel, plus user accounts and onboarding, Microsoft 365 and Entra ID, and Windows servers. Outside work I build labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
 
 🌐 **Portfolio site:** https://joshuarichard116-sudo.github.io/jrichard-web/
 
 ### 💼 Experience
 
-**System Administrator · S1 Technology** (managed service provider) · about 1 year, current role
+**Technical Consultant, Security Operations · S1 Technology** (MSP) · April 2026 – present
+- Triage and resolve about 30 security tickets per week across client environments using SentinelOne, Microsoft Defender XDR and Microsoft Sentinel
+- Own tuning of the organization's SentinelOne agent to cut false positives while keeping detection coverage
+- Designed a Microsoft Graph-based audit to catch billed users missed during onboarding
+- Prototyped least-privilege delegated admin access for a multi-domain client tenant
+- Wrote PowerShell tooling for tenant migrations and built a web GUI for the internal deployment tool
+- Day to day: user accounts and onboarding in AD and Entra ID, Microsoft 365, Windows servers and file shares, help desk escalations
 
-- Manage user accounts, onboarding and offboarding in Active Directory and Microsoft Entra ID across client environments
-- Administer Microsoft 365 and Entra ID: licenses, MFA and user access
-- Maintain Windows servers and file shares, including permissions, backups and patching
-- Work help desk tickets and troubleshoot user and device issues
-- Triage security alerts and escalate what needs deeper investigation
+**NOC Technician / Service Desk · Global Data** (MSP) · 2022 – April 2026
+- Progressed from intern to full-time technician supporting multiple client networks
+- Monitored client networks with Auvik; supported Cisco Meraki MX, Sophos and UniFi firewalls
+
+**Wheeled Vehicle Mechanic (91B), Sergeant E-5 · Louisiana Army National Guard** · 2020 – present
+
+### 📜 Certifications
+
+**B.S. Cybersecurity**, Louisiana State University of Alexandria (May 2026)
+- **Microsoft:** Azure Administrator Associate (AZ-104) · Identity and Access Administrator Associate (SC-300) · SC-900
+- **CompTIA:** Security+ · CySA+ · Security Pro
+- **Cisco:** CCST Networking · CCNA in progress
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
@@ -38,17 +51,11 @@ For the past year I've supported client environments day to day: user accounts a
 
 ### 🌱 Currently
 
-- Working through **AZ-104 (Azure Administrator)** labs
+- Studying for the **Cisco CCNA** and building an **SC-500 cloud security lab**
 - Building **HR-driven onboarding automation** (HR system → AD → Entra → groups → SaaS)
-
-<!-- Add or remove certifications as you earn them:
-### 📜 Certifications
-- Microsoft Certified: Azure Administrator Associate (AZ-104), in progress
--->
 
 ### 📫 Connect
 
-<!-- TODO: replace with your LinkedIn profile URL -->
-[LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/in/joshua-richard-376140207)
 
 <!-- pizzazz-recipe: {"pz":1,"kit":"my-color-profile","concept":"Spec Sheet","family":"refined","dev":{"intensity":"standard","flourish":"amber dividers","structure":"slim header"},"sig":"amber rule dividers","pal":{"pri":"#27241D","sec":"#423D33","tint":"#FAF5EE","zeb":"#F7F3EC","mut":"#625B50","ftr":"#6B6358","hair":"#D9D1C4","acc":"#D9A21B","watch":"#B44D12"},"font":{"h":"system-ui","b":"system-ui"},"date":"2026-11-18"} -->
