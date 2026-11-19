@@ -62,7 +62,7 @@ Each started with a problem from my MSP work and uses fictional company names, s
 
 ### 🌱 Currently
 
-- Studying for the **Cisco CCNA** and building an **SC-500 cloud security lab**
+- Studying for the **Cisco CCNA** and building an **AZ-500 cloud security lab**
 - Building **HR-driven onboarding automation** (HR system → AD → Entra → groups → SaaS)
 
 ### 📫 Connect
