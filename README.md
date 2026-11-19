@@ -1,8 +1,20 @@
-# ![Hi, I'm Joshua. IT, identity and access management](assets/banner.svg)
+# ![Hi, I'm Joshua. System Administrator, identity and access management](assets/banner.svg)
 
-**IT professional focused on identity & access management, hybrid Active Directory / Microsoft Entra ID, and Azure administration.**
+**System Administrator at S1 Technology, a managed service provider, focused on identity & access management, Microsoft 365 / Entra ID, and Azure.**
 
-I build home labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
+For the past year I've supported client environments day to day: user accounts and onboarding, Microsoft 365 and Entra ID, Windows servers, help desk and security triage. Outside work I build labs the way I'd run a real client engagement: model the business first, then design access, security controls and automation around it.
+
+🌐 **Portfolio site:** https://joshuarichard116-sudo.github.io/jrichard-web/
+
+### 💼 Experience
+
+**System Administrator · S1 Technology** (managed service provider) · about 1 year, current role
+
+- Manage user accounts, onboarding and offboarding in Active Directory and Microsoft Entra ID across client environments
+- Administer Microsoft 365 and Entra ID: licenses, MFA and user access
+- Maintain Windows servers and file shares, including permissions, backups and patching
+- Work help desk tickets and troubleshoot user and device issues
+- Triage security alerts and escalate what needs deeper investigation
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
@@ -11,6 +23,8 @@ I build home labs the way I'd run a real client engagement: model the business f
 | Project | What it shows |
 |---|---|
 | [**Meridian Steel — Access Governance & RBAC**](https://github.com/joshuarichard116-sudo/meridian-steel-access-governance) | Hybrid AD/Entra lab: department and tier RBAC, NTFS file shares with ABE, Conditional Access, PIM, PowerShell joiner/leaver automation |
+| [**Azure Landing Zone + Entra Lab**](https://github.com/joshuarichard116-sudo/azure-landing-zone-entra-lab) | Minimal Azure landing zone in Bicep (Azure Policy, Log Analytics daily cap, budget alerts, free Defender plans) plus a step-by-step lab guide with CMMC practice mappings |
+| [**CMMC Level 2 Enclave Toolkit**](https://github.com/joshuarichard116-sudo/cmmc-gcc-high-enclave-toolkit) | Vendor-neutral tool evaluation template and decision matrix mapped to NIST SP 800-171 control families, for GCC High enclaves |
 | [**Azure Administrator Labs**](https://github.com/joshuarichard116-sudo/Azure-Administrator-Labs) | Hands-on AZ-104 labs: identity, governance, storage, compute, networking, monitoring |
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
