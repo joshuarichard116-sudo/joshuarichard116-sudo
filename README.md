@@ -6,6 +6,8 @@ I lead engineering for CMMC and GCC High client environments, and cover security
 
 🌐 **Portfolio site:** https://joshuarichard116-sudo.github.io/jrichard-web/
 
+🔥 **Playable firewall lab:** [Talvex Firewall Lab](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/), a 43-mission firewall and Azure simulation that runs in your browser
+
 ### 💼 Experience
 
 **Lead Engineer, CMMC & GCC High · S1 Technology** (MSP) · April 2026 – present
@@ -22,14 +24,24 @@ I lead engineering for CMMC and GCC High client environments, and cover security
 
 **Wheeled Vehicle Mechanic (91B), Sergeant E-5 · Louisiana Army National Guard** · 2020 – present
 
-### 🛠️ Work projects (S1 Technology)
+### 🔧 Work projects (S1 Technology)
 
+- **Firewall configuration lab** ([play it](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/)): a FortiGate-style firewall and Azure simulator I designed and built with AI help. I build and test configurations there, then port them one-for-one to live environments
 - **Billing audit with Microsoft Graph:** catches billed users missed during onboarding
 - **Least-privilege delegated admin design** for a multi-domain client tenant
 - **PowerShell cleanup script** for old-tenant Outlook and Microsoft 365 data after migrations
 - **Web GUI** replacing the deployment tool's batch-script menu
 - **Company standard** for initial Cisco Small Business switch setup over console
 - **SentinelOne tuning:** fewer false positives, same detection coverage
+
+### 🤖 How I use AI
+
+AI makes me faster; I'm still the one accountable for the result.
+
+- **Scripts:** I use Claude and Grok to draft PowerShell and other scripts, which cuts the time from idea to working tool
+- **Documentation:** I use them to turn my notes into clear procedures and write-ups
+- **The firewall lab:** I designed it and directed Claude and Grok to build it, then tested and fixed it
+- **Sensitive data stays local:** the version of the lab that handles real configurations runs only on my own machine; the public version uses only fictional data
 
 ### 📜 Certifications
 
@@ -53,12 +65,14 @@ Each started with a problem from my MSP work and uses fictional company names, s
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
-### 🛠️ Skills & tools
+### 🧰 Skills & tools
 
-- **Identity:** Active Directory · Microsoft Entra ID · Entra Connect Sync · Conditional Access · PIM · RBAC / least privilege
-- **Infrastructure:** Windows Server · NTFS / SMB · KVM / virt-manager · Microsoft Azure
-- **Automation:** PowerShell (ActiveDirectory module) · CSV-driven provisioning
-- **Concepts:** Zero Trust · joiner/mover/leaver lifecycle · access reviews · break-glass design
+- **Network & firewall:** Cisco switching (VLANs, ACLs) · Meraki MX · Sophos · UniFi · TCP/IP, DNS, DHCP · VPN · Wireshark · Nmap
+- **Cloud & identity:** Microsoft Azure · VNets, NSGs, hub-and-spoke · Azure Policy · Microsoft Entra ID · Conditional Access · PIM · Microsoft 365 · Bicep
+- **Monitoring & response:** Microsoft Sentinel · Defender XDR · SentinelOne · Stellar Cyber · Auvik · Avanan · SaaS Alerts
+- **Systems:** Windows Server · Active Directory · Linux (Debian, Kali) · KVM · NTFS / SMB · backups & patching
+- **Scripting & automation:** PowerShell · Bash · Microsoft Graph API · Azure CLI · AI-assisted development (Claude, Grok)
+- **Compliance:** CMMC · NIST SP 800-171 · Zero Trust · access reviews · joiner / mover / leaver
 
 ### 🌱 Currently
 
