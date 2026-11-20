@@ -6,7 +6,7 @@ I lead engineering for CMMC and GCC High client environments, and cover security
 
 🌐 **Portfolio site:** https://joshuarichard116-sudo.github.io/jrichard-web/
 
-🔥 **Playable firewall lab:** [Talvex Firewall Lab](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/), a 43-mission firewall and Azure simulation that runs in your browser
+🔥 **Playable firewall lab:** [Talvex Firewall Lab](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/), a 43-mission firewall and Azure simulation that runs in your browser ([2-minute tour](https://joshuarichard116-sudo.github.io/jrichard-web/labs/talvex-firewall/tour/))
 
 ### 💼 Experience
 
